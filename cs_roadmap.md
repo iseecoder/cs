@@ -2,10 +2,15 @@ The roadmap document for planning how to study:
 ----------------------------------------------------------------------------------
 # TABLE OF CONTENTS
 -------------
-- [References for Plan](#references-for-plam)
+- [ToDo](#todo)
+- [References for Plan](#references-for-plan)
 - [CS Concepts](#cs-concepts)
 - [Interview Specifics](#interview-specifics)
 
+----------------------------------------------------------------------------------
+# ToDo:
+1. Find intro to CS courses - 01/01/19
+2. 
 ----------------------------------------------------------------------------------
 # References for Plan:
 - Course Notes:
