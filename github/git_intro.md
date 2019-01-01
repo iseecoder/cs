@@ -4,46 +4,6 @@ This is a summary of notes for github and related stuff like markdown
 [Github Help](#github-help)  
 [Markdown Notes](#markdown-notes)
 
-dfasdf
-fasdfsdf
-fdsafsdf
-fdsafsdf
-dfasdf
-fasdfsdf
-fdsafsdf
-fdsafsdf
-dfasdf
-fasdfsdf
-fdsafsdf
-fdsafsdf
-dfasdf
-fasdfsdf
-fdsafsdf
-fdsafsdf
-dfasdf
-fasdfsdf
-fdsafsdf
-fdsafsdf
-dfasdf
-fasdfsdf
-fdsafsdf
-fdsafsdf
-dfasdf
-fasdfsdf
-fdsafsdf
-fdsafsdf
-dfasdf
-fasdfsdf
-fdsafsdf
-fdsafsdf
-dfasdf
-fasdfsdf
-fdsafsdf
-fdsafsdf
-dfasdf
-fasdfsdf
-fdsafsdf
-fdsafsdf
 
 # Github Help
 - https://guides.github.com/activities/hello-world/
@@ -57,3 +17,7 @@ __References__
 - https://commonmark.org/help/
 
 
+__Reference Style Link__
+[Hurricane][1] Erika was the strongest and longest-lasting tropical cyclone in the 1997 Atlantic [hurricane][1] season.
+
+[1]:https://goo.gl/YEEHP0
