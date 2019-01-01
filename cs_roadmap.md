@@ -4,6 +4,7 @@ The roadmap document for planning how to study:
 -------------
 - [References for Plan](#references-for-plam)
 - [CS Concepts](#cs-concepts)
+- [Interview Specifics](#interview-specifics)
 
 ----------------------------------------------------------------------------------
 # References for Plan:
@@ -15,11 +16,23 @@ The roadmap document for planning how to study:
 ----------------------------------------------------------------------------------
 # CS Concepts:
 
-- Introduction to CS:  
+## Introduction to CS:  
 Find courses, notes etc for this. One course is CSX50 from Harvard @edx.
 
-- CS Core:
+## CS Core:
   - Algorithms
   - Datastructures
+----------------------------------------------------------------------------------
+# Interview Specifics
 
+## Websites for Interview Suggestions
+
+## Websites for Interview Questions
+----------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------
 
