@@ -1,5 +1,8 @@
 This is a summary of notes for github and related stuff like markdown
 
+# Github Help
+- https://guides.github.com/activities/hello-world/
+
 # Markdown Notes:
 
 __References__
