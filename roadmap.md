@@ -22,7 +22,9 @@ The roadmap document for planning how to study:
 # CS Concepts:
 
 ## Introduction to CS:  
-Find courses, notes etc for this. One course is CSX50 from Harvard @edx.
+Find courses, notes etc for this. One course is CSX50 from Harvard @edx.  
+
+**Topics for Intro to CS:**
 
 ## CS Core:
   - Algorithms
