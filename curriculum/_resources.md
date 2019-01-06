@@ -1,4 +1,5 @@
 # Udacity Nanodegree Pograms:
+**Pricing**: https://www.class-central.com/pricing-charts/udacity-nanodegrees
 - **Programming for Data Science Syllabus**
   - Introduction to SQL => This can be a good reference to what to study for SQL.
   - Introduction to Python
