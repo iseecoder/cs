@@ -24,3 +24,5 @@ well as common data analysis libraries like NumPy and Pandas
 ● Data visualization with matplotlib  
 ○ Exploratory data analysis and visualization  
 ○ Explanatory data visualizations and dashboards  
+
+- **Artificial Intelligence**
