@@ -1,0 +1,8 @@
+- **Udemy Learning Python for Data Analysis and Visualization**
+  - https://nbviewer.jupyter.org/github/jmportilla/Udemy-notes/tree/master/
+  - https://nbviewer.jupyter.org/github/jmportilla/Udemy---Machine-Learning/tree/master/
+  - https://github.com/jmportilla/Data-Science/blob/master/PythonforDataAnalysis.pdf
+  - https://github.com/jmportilla/Data-Science/blob/master/PythonVisualizations.pdf
+  - https://github.com/jmportilla/Udemy-notes
+  - https://github.com/jmportilla/Udemy---Machine-Learning
+  - https://nbviewer.jupyter.org/github/jmportilla/Udemy-notes/blob/master/Course%20FAQ.ipynb
